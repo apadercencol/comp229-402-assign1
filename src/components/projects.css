@@ -1,0 +1,7 @@
+.project-image {
+    width: 80%; /* Adjust the percentage as needed */
+    max-width: 1000px; /* Ensures the image doesn't exceed this width */
+    height: auto; /* Maintains the aspect ratio */
+    display: block;
+    margin: 0 auto; /* Centers the image horizontally */
+}
