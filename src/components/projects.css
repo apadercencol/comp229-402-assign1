@@ -1,7 +1,13 @@
+/*
+Assignment1
+Allen Pader
+300593768
+05/20/24
+*/
 .project-image {
-    width: 80%; /* Adjust the percentage as needed */
-    max-width: 1000px; /* Ensures the image doesn't exceed this width */
-    height: auto; /* Maintains the aspect ratio */
+    width: 80%; 
+    max-width: 1000px; 
+    height: auto; 
     display: block;
-    margin: 0 auto; /* Centers the image horizontally */
+    margin: 0 auto; 
 }

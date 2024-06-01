@@ -1,7 +1,14 @@
+
+/*
+Assignment1
+Allen Pader
+300593768
+05/20/24
+*/
 import javaexample from '../assets/javaexample.png';
 import pythonexample from '../assets/pythonexample.png';
 import kotlinexample from '../assets/kotlinexample.png';
-import './service.css'; // Ensure you create and style this CSS file as needed
+import './service.css'; 
 
 export default function ServicePage() {
     return (

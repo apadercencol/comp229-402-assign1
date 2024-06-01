@@ -1,3 +1,9 @@
+/*
+Assignment1
+Allen Pader
+300593768
+05/20/24
+*/
 .servicePageContainer {
     text-align: center;
     padding: 20px;
@@ -6,6 +12,6 @@
 
 
 .serviceImage {
-    width: 400px; /* Adjust the size as needed */
+    width: 400px; 
     height: auto;
 }

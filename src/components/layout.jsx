@@ -1,3 +1,9 @@
+/*
+Assignment1
+Allen Pader
+300593768
+05/20/24
+*/
 import {Link} from 'react-router-dom'
 import logobanner from '../assets/AllenLogo.png';
 export default function Layout(){
