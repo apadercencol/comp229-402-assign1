@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import logobanner from '../assets/AllenLogo.png'; // Adjust the path according to your actual file structure
+import logobanner from '../assets/AllenLogo.png';
 export default function Layout(){
     return (
         <>        

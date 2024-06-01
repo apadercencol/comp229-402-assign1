@@ -7,7 +7,7 @@ export default function ServicePage() {
     return (
         
         <div className="servicePageContainer">
-            <h2><u>Services</u></h2>
+            <h2><u>Services Allen</u></h2>
             <div className="imageContainer">
                 <a href={pythonexample} target="_blank" rel="noopener noreferrer">
                     <img src={pythonexample} alt="Python example" className="serviceImage" />

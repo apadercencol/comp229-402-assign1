@@ -10,7 +10,7 @@ export default function ProjectPage() {
             <h3>House Hippo Game</h3>
             <img src={hippophoto} alt="project1" className="project-image" />
             <p>
-                My role in this project was to create a simple Javascript game with the assistance of the intrustor's guide and other sources.
+                My Hirole in this project was to create a simple Javascript game with the assistance of the intrustor's guide and other sources.
                  I've created a game where you catch as many house hippos as possible. 
                 The hippo appears randomly in different areas of the background photo, changing its position every second. 
                 Your score, aptly named "Captured," increases by one each time you click on a hippo. 
